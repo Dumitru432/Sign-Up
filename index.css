@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&family=Nunito:wght@600&family=Poppins:wght@400;500;600;700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url(/blob.svg);
+    background-repeat: no-repeat;
+}
+
+.info-text {
+    float: left;
+    font-family: Nunito;
+
+}
+
+#first-paragraph {
+    font-size: 60px;
+    line-height: 82px;
+    line-height: 100%;
+    font-family: Nunito;
+    width: 397px;
+    height: 247px;
+    top: 185px;
+    left: 120px;
+    margin-top: 240px;
+    margin-left: 120px;
+}
+
+#second-paragraph {
+    font-family: Nunito;
+    font-size: 32px;
+    line-height: 44px;
+    line-height: 100%;
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+#third-paragraph{
+    font-family: Nunito;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 33px;
+    line-height: 100%;
+    margin-top: 60px;
+    margin-left: 120px;
+
+
+}
+
+.multimedia {
+    margin-top: 60px;
+    margin-left: 120px;
+}
+
+#sign-up{
+    width: 588px;
+    height: 64px;
+    top: 120px;
+    border-radius: 7px;
+    margin-top: 70px;
+    margin-left: 100px;
+    font-size: 27px;
+}
+
+
+hr {
+    width: 280px;
+}
+
+.lines {
+    margin-top: 50px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
+
+#first-name{
+    width: 269px;
+    height: 30px;
+    top: 378px;
+    border-radius: 4px;
+    margin-top: 30px;
+    margin-left: 100px;
+    padding: 15px;
+}
+
+#last-name {
+    width: 269px;
+    height: 30px;
+    top: 378px;
+    border-radius: 4px;
+    padding: 15px
+}
+
+#email-password {
+    width: 588px;
+    height: 30px;
+    border-radius: 4px;
+    padding: 15px;
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 100px;
+    
+}
+
+span {
+    color: blue;
+    
+}
+
+#last-button {
+    height: 64px;
+    width: 588px;
+    border-radius: 7px;
+    background-color: #FFE061;
+    font-size: 27px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+input {
+    height: 20px;
+    width: 20px;
+    border-radius: 3px;
+}
+
+form {
+    margin-top: 30px;
+    display: inline-block;
+    margin-left: 100px;
+}
+
